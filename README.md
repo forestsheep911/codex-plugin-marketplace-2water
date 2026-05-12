@@ -10,19 +10,19 @@ repository; this repo just lists them and pins the ref each plugin is published 
 In Codex CLI:
 
 ```bash
-codex plugin marketplace add forestsheep911/built-by-2water
+codex plugin marketplace add forestsheep911/codex-plugin-marketplace-2water
 ```
 
 Or pin to a specific ref:
 
 ```bash
-codex plugin marketplace add forestsheep911/built-by-2water --ref main
+codex plugin marketplace add forestsheep911/codex-plugin-marketplace-2water --ref main
 ```
 
 In Cursor (UI):
 
 1. Dashboard → Settings → Plugins → Team Marketplaces → Import
-2. Paste `https://github.com/forestsheep911/built-by-2water`
+2. Paste `https://github.com/forestsheep911/codex-plugin-marketplace-2water`
 3. Confirm the parsed plugins
 
 After the marketplace is added, the plugins below appear in the plugin picker and
@@ -54,7 +54,7 @@ unpublished changes the moment a plugin's `main` is updated.
 ## Layout
 
 ```text
-built-by-2water/
+codex-plugin-marketplace-2water/
 └── .agents/
     └── plugins/
         └── marketplace.json    # the catalog
