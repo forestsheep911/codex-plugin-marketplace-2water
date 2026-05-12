@@ -1,0 +1,23 @@
+{
+  "name": "built-by-2water",
+  "interface": {
+    "displayName": "built by 2water",
+    "description": "Codex plugins authored by forestsheep911 (2water)."
+  },
+  "plugins": [
+    {
+      "name": "deckit",
+      "source": {
+        "source": "git-subdir",
+        "url": "forestsheep911/deckit",
+        "path": "plugins/deckit",
+        "ref": "v0.3.2"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
