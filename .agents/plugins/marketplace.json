@@ -11,7 +11,7 @@
         "source": "git-subdir",
         "url": "forestsheep911/deckit",
         "path": "plugins/deckit",
-        "ref": "v0.4.1"
+        "ref": "v0.4.2"
       },
       "policy": {
         "installation": "AVAILABLE",

@@ -32,7 +32,7 @@ can be installed individually.
 
 | Plugin | Category | Pinned ref | Source |
 | --- | --- | --- | --- |
-| `deckit` | Productivity | `v0.4.0` | [`forestsheep911/deckit`](https://github.com/forestsheep911/deckit) → `plugins/deckit` |
+| `deckit` | Productivity | `v0.4.2` | [`forestsheep911/deckit`](https://github.com/forestsheep911/deckit) → `plugins/deckit` |
 
 `deckit` is an image-first presentation plugin. It turns a topic, text, PDF, or
 URL input into a deck workflow: source intake, deck brief, storyboard,
