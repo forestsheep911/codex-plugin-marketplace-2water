@@ -18,6 +18,20 @@
         "authentication": "ON_INSTALL"
       },
       "category": "Productivity"
+    },
+    {
+      "name": "kintone-space-writer",
+      "source": {
+        "source": "git-subdir",
+        "url": "forestsheep911/kintone-space-writer",
+        "path": "plugins/kintone-space-writer",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     }
   ]
 }
