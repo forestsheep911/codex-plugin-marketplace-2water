@@ -32,7 +32,9 @@ can be installed individually.
 
 | Plugin | Category | Pinned ref | Source |
 | --- | --- | --- | --- |
-| `deckit` | Productivity | `v0.4.2` | [`forestsheep911/deckit`](https://github.com/forestsheep911/deckit) → `plugins/deckit` |
+| `deckit` | Productivity | `v0.4.3` | [`forestsheep911/deckit`](https://github.com/forestsheep911/deckit) -> `plugins/deckit` |
+| `kintone-space-writer` | Productivity | `v0.1.0` | [`forestsheep911/kintone-space-writer`](https://github.com/forestsheep911/kintone-space-writer) -> `plugins/kintone-space-writer` |
+| `kintone-setup-toolkit` | Productivity | `v0.1.0` | [`forestsheep911/kintone-setup-toolkit-codex-plugin`](https://github.com/forestsheep911/kintone-setup-toolkit-codex-plugin) -> `plugins/kintone-setup-toolkit` |
 
 `deckit` is an image-first presentation plugin. It turns a topic, text, PDF, or
 URL input into a deck workflow: source intake, deck brief, storyboard,
