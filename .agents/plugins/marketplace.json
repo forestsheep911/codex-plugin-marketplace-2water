@@ -46,6 +46,20 @@
         "authentication": "ON_INSTALL"
       },
       "category": "Productivity"
+    },
+    {
+      "name": "cybozu-style-ppt",
+      "source": {
+        "source": "git-subdir",
+        "url": "forestsheep911/cybozu-style-ppt",
+        "path": "plugins/cybozu-style-ppt",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     }
   ]
 }
