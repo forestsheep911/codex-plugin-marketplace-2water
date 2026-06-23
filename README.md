@@ -35,6 +35,8 @@ can be installed individually.
 | `deckit` | Productivity | `v0.4.3` | [`forestsheep911/deckit`](https://github.com/forestsheep911/deckit) -> `plugins/deckit` |
 | `kintone-space-writer` | Productivity | `v0.1.0` | [`forestsheep911/kintone-space-writer`](https://github.com/forestsheep911/kintone-space-writer) -> `plugins/kintone-space-writer` |
 | `kintone-setup-toolkit` | Productivity | `v0.1.0` | [`forestsheep911/kintone-setup-toolkit-codex-plugin`](https://github.com/forestsheep911/kintone-setup-toolkit-codex-plugin) -> `plugins/kintone-setup-toolkit` |
+| `cybozu-style-ppt` | Productivity | `v0.1.0` | [`forestsheep911/cybozu-style-ppt`](https://github.com/forestsheep911/cybozu-style-ppt) -> `plugins/cybozu-style-ppt` |
+| `bimuse` | Productivity | `v0.1.0` | [`forestsheep911/BiMuse`](https://github.com/forestsheep911/BiMuse) -> `plugins/bimuse` |
 
 `deckit` is an image-first presentation plugin. It turns a topic, text, PDF, or
 URL input into a deck workflow: source intake, deck brief, storyboard,
@@ -46,6 +48,10 @@ image-only PDF. The `.pptx` output is a packaging format around generated slide
 PNGs, not a native editable PowerPoint deck. See the
 [`forestsheep911/deckit`](https://github.com/forestsheep911/deckit) repository
 for usage and contribution docs.
+
+`bimuse` coordinates local-first media workflows: YouTube acquisition,
+audio/video conversion, speech-to-text, text-to-speech, transcript cleanup, and
+semantic transcript understanding.
 
 ## Refresh after a plugin release
 
