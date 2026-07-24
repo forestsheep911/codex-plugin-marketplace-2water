@@ -39,7 +39,7 @@
         "source": "git-subdir",
         "url": "forestsheep911/kintone-env-steward",
         "path": "plugins/kintone-env-steward",
-        "ref": "v0.0.16"
+        "ref": "v0.0.17"
       },
       "policy": {
         "installation": "AVAILABLE",
