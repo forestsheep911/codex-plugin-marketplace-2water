@@ -74,6 +74,20 @@
         "authentication": "ON_INSTALL"
       },
       "category": "Productivity"
+    },
+    {
+      "name": "kintone-proposal-creator",
+      "source": {
+        "source": "git-subdir",
+        "url": "forestsheep911/kintone-proposal-creator",
+        "path": "plugins/kintone-proposal-creator",
+        "ref": "v0.1.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     }
   ]
 }

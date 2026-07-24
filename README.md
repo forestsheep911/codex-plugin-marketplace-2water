@@ -37,6 +37,7 @@ can be installed individually.
 | `kintone-setup-toolkit` | Productivity | `v0.1.0` | [`forestsheep911/kintone-setup-toolkit-codex-plugin`](https://github.com/forestsheep911/kintone-setup-toolkit-codex-plugin) -> `plugins/kintone-setup-toolkit` |
 | `cybozu-style-ppt` | Productivity | `v0.1.0` | [`forestsheep911/cybozu-style-ppt`](https://github.com/forestsheep911/cybozu-style-ppt) -> `plugins/cybozu-style-ppt` |
 | `bimuse` | Productivity | `v0.1.0` | [`forestsheep911/BiMuse`](https://github.com/forestsheep911/BiMuse) -> `plugins/bimuse` |
+| `kintone-proposal-creator` | Productivity | `v0.1.0` | [`forestsheep911/kintone-proposal-creator`](https://github.com/forestsheep911/kintone-proposal-creator) -> `plugins/kintone-proposal-creator` |
 
 `deckit` is an image-first presentation plugin. It turns a topic, text, PDF, or
 URL input into a deck workflow: source intake, deck brief, storyboard,
@@ -52,6 +53,11 @@ for usage and contribution docs.
 `bimuse` coordinates local-first media workflows: YouTube acquisition,
 audio/video conversion, speech-to-text, text-to-speech, transcript cleanup, and
 semantic transcript understanding.
+
+`kintone-proposal-creator` turns presales notes into evidence-aware,
+customer-ready, image-first kintone solution proposals. It separates verified
+facts, assumptions, recommendations, scope boundaries, and PoC questions before
+producing proposal narratives and delivery artifacts.
 
 ## Refresh after a plugin release
 
