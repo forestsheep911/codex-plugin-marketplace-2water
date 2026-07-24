@@ -34,7 +34,7 @@ can be installed individually.
 | --- | --- | --- | --- |
 | `deckit` | Productivity | `v0.4.3` | [`forestsheep911/deckit`](https://github.com/forestsheep911/deckit) -> `plugins/deckit` |
 | `kintone-space-writer` | Productivity | `v0.1.0` | [`forestsheep911/kintone-space-writer`](https://github.com/forestsheep911/kintone-space-writer) -> `plugins/kintone-space-writer` |
-| `kintone-setup-toolkit` | Productivity | `v0.1.0` | [`forestsheep911/kintone-setup-toolkit-codex-plugin`](https://github.com/forestsheep911/kintone-setup-toolkit-codex-plugin) -> `plugins/kintone-setup-toolkit` |
+| `kintone-env-steward` | Productivity | `v0.0.16` | [`forestsheep911/kintone-env-steward`](https://github.com/forestsheep911/kintone-env-steward) -> `plugins/kintone-env-steward` |
 | `cybozu-style-ppt` | Productivity | `v0.1.0` | [`forestsheep911/cybozu-style-ppt`](https://github.com/forestsheep911/cybozu-style-ppt) -> `plugins/cybozu-style-ppt` |
 | `bimuse` | Productivity | `v0.1.0` | [`forestsheep911/BiMuse`](https://github.com/forestsheep911/BiMuse) -> `plugins/bimuse` |
 | `kintone-proposal-creator` | Productivity | `v0.1.0` | [`forestsheep911/kintone-proposal-creator`](https://github.com/forestsheep911/kintone-proposal-creator) -> `plugins/kintone-proposal-creator` |
@@ -53,6 +53,11 @@ for usage and contribution docs.
 `bimuse` coordinates local-first media workflows: YouTube acquisition,
 audio/video conversion, speech-to-text, text-to-speech, transcript cleanup, and
 semantic transcript understanding.
+
+`kintone-env-steward` is a read-first kintone environment-governance assistant.
+It inventories configuration and schema, records versioned evidence, explains
+governance findings, and prepares reviewable remediation plans before any
+authorized change.
 
 `kintone-proposal-creator` turns presales notes into evidence-aware,
 customer-ready, image-first kintone solution proposals. It separates verified

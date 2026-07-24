@@ -34,12 +34,12 @@
       "category": "Productivity"
     },
     {
-      "name": "kintone-setup-toolkit",
+      "name": "kintone-env-steward",
       "source": {
         "source": "git-subdir",
-        "url": "forestsheep911/kintone-setup-toolkit-codex-plugin",
-        "path": "plugins/kintone-setup-toolkit",
-        "ref": "v0.1.0"
+        "url": "forestsheep911/kintone-env-steward",
+        "path": "plugins/kintone-env-steward",
+        "ref": "v0.0.16"
       },
       "policy": {
         "installation": "AVAILABLE",
