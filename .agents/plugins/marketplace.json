@@ -25,7 +25,7 @@
         "source": "git-subdir",
         "url": "forestsheep911/kintone-space-writer",
         "path": "plugins/kintone-space-writer",
-        "ref": "v0.1.0"
+        "ref": "v0.2.0"
       },
       "policy": {
         "installation": "AVAILABLE",
